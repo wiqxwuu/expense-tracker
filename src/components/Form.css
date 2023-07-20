@@ -1,0 +1,18 @@
+.inputs{
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px;
+}
+.input_container{
+    display: flex;
+    margin-right: 20px;
+}
+form{
+    padding: 10px;
+}
+.button_block{
+    margin-left: 50%;
+}
+#input_amount{
+    margin-right: 300px;
+}

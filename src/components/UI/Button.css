@@ -1,0 +1,15 @@
+button{
+    padding: 18px;
+    border-radius: 10px;
+    background-color: #4A026B;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    outline: none;
+    border: none;
+    margin: 10px;
+}
+
+button:disabled{
+    background-color: rgb(171,170,170);
+    cursor: not-allowed;
+}
